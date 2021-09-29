@@ -13,8 +13,11 @@ Make the file(s) executable for convenience, by running:\
 `chmod +x wlan0ip.sh`\
 and\
 `chmod +x eth0ip.sh`\
+and\
+`chmod +x notsure.sh`\
 If you have ethernet, then type: `./eth0ip.sh`\
-If you have wifi, then type: `./wlan0ip.sh`.
+If you have wifi, then type: `./wlan0ip.sh`.\
+If you're not sure, then type: `./notsure.sh`
 That's it!\
 It should say `inet [YOUR_IP] brd [RANDOM_NUMBERS] blah blah`\
 Of course [YOUR_IP] will be well, your ip.
