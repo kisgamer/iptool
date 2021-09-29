@@ -16,6 +16,6 @@ and\
 If you have ethernet, then type: `./eth0ip.sh`\
 If you have wifi, then type: `./wlan0ip.sh`.
 That's it!\
-It should say `inet [YOUR_IP] blah blah`\
+It should say `inet [YOUR_IP] brd [RANDOM_NUMBERS] blah blah`\
 Of course [YOUR_IP] will be well, your ip.
 
