@@ -3,10 +3,10 @@ This is a tool for beginners to get their local ip easier.\
 Note: This only works on linux
 
 # Guide
-Download the script by running:\
-`git clone https://github.com/kisgamer/iptool.git`\
 Make sure that you have git installed, if you don't, you can do so by running:\
 `sudo apt install git -y`\
+Download the script by running:\
+`git clone https://github.com/kisgamer/iptool.git`\
 Next go into the directory you just downloaded(iptool).\
 `cd iptool`\
 Make the file(s) executable for convenience, by running:\
