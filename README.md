@@ -4,17 +4,14 @@ Note: This only works on linux
 
 # Guide
 Make sure that you have git installed, if you don't, you can do so by running:\
-`sudo apt install git -y`\
+if on ubuntu, Pop!_OS, elementaryOS or derivatives: `sudo apt install git -y`\
+if on arch, manjaro: `sudo pacman -Sy git`\
 Download the script by running:\
 `git clone https://github.com/kisgamer/iptool.git`\
 Next go into the directory you just downloaded(iptool).\
 `cd iptool`\
 Make the file(s) executable for convenience, by running:\
-`chmod +x wlan0ip.sh`\
-and\
-`chmod +x eth0ip.sh`\
-and\
-`chmod +x notsure.sh`\
+`chmod +x ./*`\
 If you have ethernet, then type: `./eth0ip.sh`\
 If you have wifi, then type: `./wlan0ip.sh`.\
 If you're not sure, then type: `./notsure.sh`
