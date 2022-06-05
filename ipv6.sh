@@ -1,0 +1,1 @@
+ip a | grep -F enp | grep -F inet6; ip a | grep -F wlan | grep -F inet6; ip a | grep -F eth | grep -F inet6;
