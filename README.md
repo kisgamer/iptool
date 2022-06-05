@@ -18,4 +18,3 @@ If you're not sure, then type: `./notsure.sh`
 That's it!\
 It should say `inet [YOUR_IP] brd [RANDOM_NUMBERS] blah blah`\
 Of course [YOUR_IP] will be well, your ip.
-
