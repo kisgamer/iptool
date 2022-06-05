@@ -17,4 +17,4 @@ If you have wifi, then type: `./wifi.sh`.\
 If you're not sure, then type: `./notsure.sh`
 That's it!\
 It should say `inet [YOUR_IP] brd [RANDOM_NUMBERS] blah blah`\
-Of course [YOUR_IP] will be well, your ip.
+Of course [YOUR_IP] will be your ip.
