@@ -12,8 +12,8 @@ Next go into the directory you just downloaded(iptool).\
 `cd iptool`\
 Make the file(s) executable for convenience, by running:\
 `sudo chmod +x ./*`\
-If you have ethernet, then type: `./eth0ip.sh`\
-If you have wifi, then type: `./wlan0ip.sh`.\
+If you have ethernet, then type: `./cable.sh`\
+If you have wifi, then type: `./wifi.sh`.\
 If you're not sure, then type: `./notsure.sh`
 That's it!\
 It should say `inet [YOUR_IP] brd [RANDOM_NUMBERS] blah blah`\
